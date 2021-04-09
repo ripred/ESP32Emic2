@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages for ESP32Emic2.
-ESP32Emic2 is an ESP32 library for the Emic 2 Text-to-Speech (TTS) Synthesizer Module.<br/>
+ESP32Emic2 is an ESP32 library for the Emic 2 Text-to-Speech (TTS) Synthesizer Module  
     For example: [Emic 2 Text-to-Speech Module](https://www.adafruit.com/product/924)
     ![Emic 2 Text-To-Speech Module image](https://cdn-shop.adafruit.com/1200x900/924-02.jpg)
 
