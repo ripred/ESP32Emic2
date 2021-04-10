@@ -1,0 +1,49 @@
+#######################################
+# Syntax Coloring Map for ESP32Emic2
+#######################################
+# https://github.com/ripred/ESP32Emic2
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ESP32Emic2  KEYWORD1
+Callback    KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+ESP32Emic2              KEYWORD2
+set_debug               KEYWORD2
+get_tx_pin              KEYWORD2
+get_rx_pin              KEYWORD2
+set_callback            KEYWORD2
+setup                   KEYWORD2
+write                   KEYWORD2
+waitfor                 KEYWORD2
+read_and_show           KEYWORD2
+say                     KEYWORD2
+demo                    KEYWORD2
+stop_playback           KEYWORD2
+toggle_pause            KEYWORD2
+set_voice               KEYWORD2
+set_volume              KEYWORD2
+set_words_per_minute    KEYWORD2
+set_parser              KEYWORD2
+set_language            KEYWORD2
+set_default             KEYWORD2
+get_current             KEYWORD2
+get_info                KEYWORD2
+get_help                KEYWORD2
+test                    KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+DECTALK     LITERAL1
+EPSON       LITERAL1
+EMIC_OK     LITERAL1
+EMIC_FAIL   LITERAL1
+EMIC_TMOUT  LITERAL1
+SYNC        LITERAL1
