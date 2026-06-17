@@ -1,5 +1,4 @@
 # ESP32Emic2
-[![Arduino CI](https://github.com/ripred/ESP32Emic2/actions/workflows/arduino_test_runner.yml/badge.svg)](https://github.com/ripred/ESP32Emic2/actions/workflows/arduino_test_runner.yml)
 [![Arduino-lint](https://github.com/ripred/ESP32Emic2/actions/workflows/arduino-lint.yml/badge.svg)](https://github.com/ripred/ESP32Emic2/actions/workflows/arduino-lint.yml)
 [![Arduino Library Manager](https://www.ardu-badge.com/badge/ESP32Emic2.svg)](https://www.ardu-badge.com/ESP32Emic2)
 [![License](https://flat.badgen.net/github/license/ripred/ESP32Emic2)](https://github.com/ripred/ESP32Emic2/blob/master/license.txt)
